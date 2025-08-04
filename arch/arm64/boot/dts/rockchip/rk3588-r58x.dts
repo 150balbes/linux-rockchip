@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: (GPL-2.0+ OR MIT)
+/*
+ * Copyright (c) 2021 Rockchip Electronics Co., Ltd.
+ *
+ */
+
+/dts-v1/;
+
+#include "rk3588-blueberry-edge-v12-linux.dts"
+
+/ {
+	model = "Mekotronics R58X-4G BlueBerry Board";
+	compatible = "rockchip,rk3588-blueberry-edge-v12-linux", "rockchip,rk3588";
+};
